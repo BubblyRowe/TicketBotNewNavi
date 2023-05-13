@@ -1,3 +1,7 @@
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+
+
+
 ### ⚠️ WARNING!
 In open ticket **v3.3.3 & below**, there is a bug causing weird looking embeds, we solved this in the [dev branch](https://github.com/DJj123dj/open-ticket/tree/dev). Try to download open ticket from there while we are fixing the bug!
 <hr>
